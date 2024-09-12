@@ -1,4 +1,5 @@
 import UIKit
+
 var ilce = "Kadıköy"
 
 print(ilce)
